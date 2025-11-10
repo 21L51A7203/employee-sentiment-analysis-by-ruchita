@@ -1,0 +1,121 @@
+employee_email,date,message,sentiment,confidence
+aarti@company.com,01-01-2024,Loving the new team structure!,positive,0.9820557236671448
+ravi@company.com,02-01-2024,Workload feels too heavy lately.,negative,0.8376218676567078
+fatima@company.com,03-01-2024,"Team meeting went well, feeling motivated!",positive,0.9798458218574524
+john@company.com,04-01-2024,Deadlines are stressing me out.,negative,0.8659239411354065
+megha@company.com,05-01-2024,Happy with the management and support.,positive,0.9773032069206238
+rohan@company.com,06-01-2024,Need more clarity on project expectations.,neutral,0.7816863059997559
+aarti@company.com,07-01-2024,Loving the new team structure!,positive,0.9820557236671448
+ravi@company.com,08-01-2024,Workload feels too heavy lately.,negative,0.8376218676567078
+fatima@company.com,09-01-2024,"Team meeting went well, feeling motivated!",positive,0.9798458218574524
+john@company.com,10-01-2024,Deadlines are stressing me out.,negative,0.8659239411354065
+megha@company.com,11-01-2024,Happy with the management and support.,positive,0.9773032069206238
+rohan@company.com,12-01-2024,Need more clarity on project expectations.,neutral,0.7816863059997559
+aarti@company.com,13-01-2024,Loving the new team structure!,positive,0.9820557236671448
+ravi@company.com,14-01-2024,Workload feels too heavy lately.,negative,0.8376218676567078
+fatima@company.com,15-01-2024,"Team meeting went well, feeling motivated!",positive,0.9798458218574524
+john@company.com,16-01-2024,Deadlines are stressing me out.,negative,0.8659239411354065
+megha@company.com,17-01-2024,Happy with the management and support.,positive,0.9773032069206238
+rohan@company.com,18-01-2024,Need more clarity on project expectations.,neutral,0.7816863059997559
+aarti@company.com,19-01-2024,Loving the new team structure!,positive,0.9820557236671448
+ravi@company.com,20-01-2024,Workload feels too heavy lately.,negative,0.8376218676567078
+fatima@company.com,21-01-2024,"Team meeting went well, feeling motivated!",positive,0.9798458218574524
+john@company.com,22-01-2024,Deadlines are stressing me out.,negative,0.8659239411354065
+megha@company.com,23-01-2024,Happy with the management and support.,positive,0.9773032069206238
+rohan@company.com,24-01-2024,Need more clarity on project expectations.,neutral,0.7816863059997559
+aarti@company.com,25-01-2024,Loving the new team structure!,positive,0.9820557236671448
+ravi@company.com,26-01-2024,Workload feels too heavy lately.,negative,0.8376218676567078
+fatima@company.com,27-01-2024,"Team meeting went well, feeling motivated!",positive,0.9798458218574524
+john@company.com,28-01-2024,Deadlines are stressing me out.,negative,0.8659239411354065
+megha@company.com,29-01-2024,Happy with the management and support.,positive,0.9773032069206238
+rohan@company.com,30-01-2024,Need more clarity on project expectations.,neutral,0.7816863059997559
+aarti@company.com,31-01-2024,Loving the new team structure!,positive,0.9820557236671448
+ravi@company.com,01-02-2024,Workload feels too heavy lately.,negative,0.8376218676567078
+fatima@company.com,02-02-2024,"Team meeting went well, feeling motivated!",positive,0.9798458218574524
+john@company.com,03-02-2024,Deadlines are stressing me out.,negative,0.8659239411354065
+megha@company.com,04-02-2024,Happy with the management and support.,positive,0.9773032069206238
+rohan@company.com,05-02-2024,Need more clarity on project expectations.,neutral,0.7816863059997559
+aarti@company.com,06-02-2024,Loving the new team structure!,positive,0.9820557236671448
+ravi@company.com,07-02-2024,Workload feels too heavy lately.,negative,0.8376218676567078
+fatima@company.com,08-02-2024,"Team meeting went well, feeling motivated!",positive,0.9798458218574524
+john@company.com,09-02-2024,Deadlines are stressing me out.,negative,0.8659239411354065
+megha@company.com,10-02-2024,Happy with the management and support.,positive,0.9773032069206238
+rohan@company.com,11-02-2024,Need more clarity on project expectations.,neutral,0.7816863059997559
+aarti@company.com,12-02-2024,Loving the new team structure!,positive,0.9820557236671448
+ravi@company.com,13-02-2024,Workload feels too heavy lately.,negative,0.8376218676567078
+fatima@company.com,14-02-2024,"Team meeting went well, feeling motivated!",positive,0.9798458218574524
+john@company.com,15-02-2024,Deadlines are stressing me out.,negative,0.8659239411354065
+megha@company.com,16-02-2024,Happy with the management and support.,positive,0.9773032069206238
+rohan@company.com,17-02-2024,Need more clarity on project expectations.,neutral,0.7816863059997559
+aarti@company.com,18-02-2024,Loving the new team structure!,positive,0.9820557236671448
+ravi@company.com,19-02-2024,Workload feels too heavy lately.,negative,0.8376218676567078
+fatima@company.com,20-02-2024,"Team meeting went well, feeling motivated!",positive,0.9798458218574524
+john@company.com,21-02-2024,Deadlines are stressing me out.,negative,0.8659239411354065
+megha@company.com,22-02-2024,Happy with the management and support.,positive,0.9773032069206238
+rohan@company.com,23-02-2024,Need more clarity on project expectations.,neutral,0.7816863059997559
+aarti@company.com,24-02-2024,Loving the new team structure!,positive,0.9820557236671448
+ravi@company.com,25-02-2024,Workload feels too heavy lately.,negative,0.8376218676567078
+fatima@company.com,26-02-2024,"Team meeting went well, feeling motivated!",positive,0.9798458218574524
+john@company.com,27-02-2024,Deadlines are stressing me out.,negative,0.8659239411354065
+megha@company.com,28-02-2024,Happy with the management and support.,positive,0.9773032069206238
+rohan@company.com,29-02-2024,Need more clarity on project expectations.,neutral,0.7816863059997559
+aarti@company.com,01-03-2024,Loving the new team structure!,positive,0.9820557236671448
+ravi@company.com,02-03-2024,Workload feels too heavy lately.,negative,0.8376218676567078
+fatima@company.com,03-03-2024,"Team meeting went well, feeling motivated!",positive,0.9798458218574524
+john@company.com,04-03-2024,Deadlines are stressing me out.,negative,0.8659239411354065
+megha@company.com,05-03-2024,Happy with the management and support.,positive,0.9773032069206238
+rohan@company.com,06-03-2024,Need more clarity on project expectations.,neutral,0.7816863059997559
+aarti@company.com,07-03-2024,Loving the new team structure!,positive,0.9820557236671448
+ravi@company.com,08-03-2024,Workload feels too heavy lately.,negative,0.8376218676567078
+fatima@company.com,09-03-2024,"Team meeting went well, feeling motivated!",positive,0.9798458218574524
+john@company.com,10-03-2024,Deadlines are stressing me out.,negative,0.8659239411354065
+megha@company.com,11-03-2024,Happy with the management and support.,positive,0.9773032069206238
+rohan@company.com,12-03-2024,Need more clarity on project expectations.,neutral,0.7816863059997559
+aarti@company.com,13-03-2024,Loving the new team structure!,positive,0.9820557236671448
+ravi@company.com,14-03-2024,Workload feels too heavy lately.,negative,0.8376218676567078
+fatima@company.com,15-03-2024,"Team meeting went well, feeling motivated!",positive,0.9798458218574524
+john@company.com,16-03-2024,Deadlines are stressing me out.,negative,0.8659239411354065
+megha@company.com,17-03-2024,Happy with the management and support.,positive,0.9773032069206238
+rohan@company.com,18-03-2024,Need more clarity on project expectations.,neutral,0.7816863059997559
+aarti@company.com,19-03-2024,Loving the new team structure!,positive,0.9820557236671448
+ravi@company.com,20-03-2024,Workload feels too heavy lately.,negative,0.8376218676567078
+fatima@company.com,21-03-2024,"Team meeting went well, feeling motivated!",positive,0.9798458218574524
+john@company.com,22-03-2024,Deadlines are stressing me out.,negative,0.8659239411354065
+megha@company.com,23-03-2024,Happy with the management and support.,positive,0.9773032069206238
+rohan@company.com,24-03-2024,Need more clarity on project expectations.,neutral,0.7816863059997559
+aarti@company.com,25-03-2024,Loving the new team structure!,positive,0.9820557236671448
+ravi@company.com,26-03-2024,Workload feels too heavy lately.,negative,0.8376218676567078
+fatima@company.com,27-03-2024,"Team meeting went well, feeling motivated!",positive,0.9798458218574524
+john@company.com,28-03-2024,Deadlines are stressing me out.,negative,0.8659239411354065
+megha@company.com,29-03-2024,Happy with the management and support.,positive,0.9773032069206238
+rohan@company.com,30-03-2024,Need more clarity on project expectations.,neutral,0.7816863059997559
+aarti@company.com,31-03-2024,Loving the new team structure!,positive,0.9820557236671448
+ravi@company.com,01-04-2024,Workload feels too heavy lately.,negative,0.8376218676567078
+fatima@company.com,02-04-2024,"Team meeting went well, feeling motivated!",positive,0.9798458218574524
+john@company.com,03-04-2024,Deadlines are stressing me out.,negative,0.8659239411354065
+megha@company.com,04-04-2024,Happy with the management and support.,positive,0.9773032069206238
+rohan@company.com,05-04-2024,Need more clarity on project expectations.,neutral,0.7816863059997559
+aarti@company.com,06-04-2024,Loving the new team structure!,positive,0.9820557236671448
+ravi@company.com,07-04-2024,Workload feels too heavy lately.,negative,0.8376218676567078
+fatima@company.com,08-04-2024,"Team meeting went well, feeling motivated!",positive,0.9798458218574524
+john@company.com,09-04-2024,Deadlines are stressing me out.,negative,0.8659239411354065
+megha@company.com,10-04-2024,Happy with the management and support.,positive,0.9773032069206238
+rohan@company.com,11-04-2024,Need more clarity on project expectations.,neutral,0.7816863059997559
+aarti@company.com,12-04-2024,Loving the new team structure!,positive,0.9820557236671448
+ravi@company.com,13-04-2024,Workload feels too heavy lately.,negative,0.8376218676567078
+fatima@company.com,14-04-2024,"Team meeting went well, feeling motivated!",positive,0.9798458218574524
+john@company.com,15-04-2024,Deadlines are stressing me out.,negative,0.8659239411354065
+megha@company.com,16-04-2024,Happy with the management and support.,positive,0.9773032069206238
+rohan@company.com,17-04-2024,Need more clarity on project expectations.,neutral,0.7816863059997559
+aarti@company.com,18-04-2024,Loving the new team structure!,positive,0.9820557236671448
+ravi@company.com,19-04-2024,Workload feels too heavy lately.,negative,0.8376218676567078
+fatima@company.com,20-04-2024,"Team meeting went well, feeling motivated!",positive,0.9798458218574524
+john@company.com,21-04-2024,Deadlines are stressing me out.,negative,0.8659239411354065
+megha@company.com,22-04-2024,Happy with the management and support.,positive,0.9773032069206238
+rohan@company.com,23-04-2024,Need more clarity on project expectations.,neutral,0.7816863059997559
+aarti@company.com,24-04-2024,Loving the new team structure!,positive,0.9820557236671448
+ravi@company.com,25-04-2024,Workload feels too heavy lately.,negative,0.8376218676567078
+fatima@company.com,26-04-2024,"Team meeting went well, feeling motivated!",positive,0.9798458218574524
+john@company.com,27-04-2024,Deadlines are stressing me out.,negative,0.8659239411354065
+megha@company.com,28-04-2024,Happy with the management and support.,positive,0.9773032069206238
+rohan@company.com,29-04-2024,Need more clarity on project expectations.,neutral,0.7816863059997559
